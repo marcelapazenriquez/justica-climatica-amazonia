@@ -1,0 +1,10 @@
+{
+ "pct_alto_muito_alto_brasil": 27.16337522441652,
+ "pct_alto_muito_alto_amazonia_legal": 35.62176165803109,
+ "pct_alto_muito_alto_sumidouros": 47.42857142857143,
+ "pct_alto_muito_alto_emissores": 31.62393162393162,
+ "recorrentes_alto_muito_alto": 9,
+ "indice_medio_sumidouros": 0.5792571428571429,
+ "indice_medio_emissores": 0.5272307692307692,
+ "mann_whitney_p": 0.0010530168670839905
+}

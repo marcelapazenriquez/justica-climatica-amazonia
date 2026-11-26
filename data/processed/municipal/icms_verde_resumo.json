@@ -1,0 +1,12 @@
+{
+ "municipios": 143,
+ "sumidouros": 31,
+ "sumidouros_part_remocoes": 0.6317607518881373,
+ "sumidouros_part_icms": 0.2980705711492585,
+ "top10_removedores_part_remocoes": 0.5983876738177978,
+ "top10_removedores_part_icms": 0.13010684036110468,
+ "spearman_icms_remocoes": 0.6760276108867658,
+ "spearman_icms_emissao_liquida": -0.025589753428550015,
+ "spearman_icms_emissao_liquida_p": 0.7616056879575956,
+ "maior_recebedor": "sao felix do xingu"
+}

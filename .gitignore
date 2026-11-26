@@ -1,0 +1,5 @@
+*.docx
+*.xlsb
+SEEG11-DADOS-NACIONAIS*.xlsx
+__pycache__/
+.DS_Store

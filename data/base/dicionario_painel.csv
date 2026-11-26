@@ -1,0 +1,16 @@
+variavel,descricao,unidade,fonte
+cod_ibge,Código IBGE do município (7 dígitos),—,IBGE
+"municipio, uf, ano",Identificação,—,—
+area_km2,Área do município,km²,PRODES
+desmatamento_acumulado_km2,Desmatamento acumulado até o ano,km²,PRODES
+desmatamento_ano_km2,Desmatamento no ano,km²,PRODES
+"floresta_km2, nao_floresta_km2, hidrografia_km2",Cobertura no ano,km²,PRODES
+emissoes_tco2e,Emissões brutas do setor Mudança de Uso da Terra (desmatamento + outras mudanças + regeneração),t CO₂e,SEEG Municípios
+remocoes_tco2e,Remoções (valor negativo),t CO₂e,SEEG Municípios
+emissao_liquida_tco2e,Emissões + remoções; negativo = sumidouro,t CO₂e,SEEG Municípios
+"emissao_desmatamento_tco2e, emissao_outras_mut_tco2e",Emissões de desmatamento e de outras mudanças de uso da terra,t CO₂e,SEEG Municípios
+populacao,População estimada,habitantes,IBGE
+pib_per_capita_rs,"PIB per capita, valores correntes",R$,"IBGE, PIB dos Municípios (tab. 5938)"
+bovinos_cabecas,Efetivo bovino,cabeças,"IBGE, PPM (tab. 3939)"
+"familias_bolsa_familia, valor_pago_bolsa_familia_rs","Famílias: soma dos 12 meses (família-mês; ÷ 12 = média mensal). Valor pago: unidade inconsistente entre anos (2006, 2008–2011 e 2016 fora de escala); não usar",família-mês; R$,MDS
+censo_*_ha,Utilização das terras nos estabelecimentos (só 2006 e 2017),ha,"IBGE, Censo Agropecuário"

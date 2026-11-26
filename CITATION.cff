@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Se usar estes dados ou código, cite assim."
+title: "Quem mitiga, quem emite, quem é compensado: justiça climática entre os municípios da Amazônia Legal"
+authors:
+  - family-names: Enriquez
+    given-names: Marcela Paz da Silva
+  - family-names: Diniz
+    given-names: Marcelo Bentes
+type: dataset
+date-released: 2026-11-26
+license: CC-BY-4.0
+keywords: [Amazônia Legal, justiça climática, ODS, SEEG, uso do solo]
+repository-code: "https://github.com/marcelapazenriquez/justica-climatica-amazonia"

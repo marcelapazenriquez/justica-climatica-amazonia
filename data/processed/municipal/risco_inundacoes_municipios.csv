@@ -1,0 +1,761 @@
+CodIbge,nome,classe,valor,grupo,recorrente
+1100015,Alta Floresta D'Oeste/RO,Médio,0.54,Emissores líquidos,Demais
+1100023,Ariquemes/RO,Médio,0.49,Emissores líquidos,Demais
+1100031,Cabixi/RO,Baixo,0.32,Emissores líquidos,Demais
+1100049,Cacoal/RO,Médio,0.54,Emissores líquidos,Demais
+1100056,Cerejeiras/RO,Médio,0.53,Emissores líquidos,Demais
+1100064,Colorado do Oeste/RO,Médio,0.46,Emissores líquidos,Demais
+1100072,Corumbiara/RO,Baixo,0.35,Emissores líquidos,Demais
+1100080,Costa Marques/RO,Médio,0.5,Emissores líquidos,Demais
+1100098,Espigão D'Oeste/RO,Alto,0.62,Emissores líquidos,Demais
+1100106,Guajará-Mirim/RO,Alto,0.63,Sumidouros líquidos,Demais
+1100114,Jaru/RO,Médio,0.57,Emissores líquidos,Demais
+1100122,Ji-Paraná/RO,Médio,0.59,Sumidouros líquidos,Demais
+1100130,Machadinho D'Oeste/RO,Médio,0.54,Emissores líquidos,Demais
+1100148,Nova Brasilândia D'Oeste/RO,Médio,0.58,Emissores líquidos,Demais
+1100155,Ouro Preto do Oeste/RO,Alto,0.71,Emissores líquidos,Demais
+1100189,Pimenta Bueno/RO,Alto,0.73,Emissores líquidos,Demais
+1100205,Porto Velho/RO,Alto,0.61,Emissores líquidos,Demais
+1100254,Presidente Médici/RO,Médio,0.55,Emissores líquidos,Demais
+1100262,Rio Crespo/RO,Baixo,0.35,Emissores líquidos,Demais
+1100288,Rolim de Moura/RO,Médio,0.42,Emissores líquidos,Demais
+1100296,Santa Luzia D'Oeste/RO,Médio,0.47,Emissores líquidos,Demais
+1100304,Vilhena/RO,Médio,0.44,Sumidouros líquidos,Demais
+1100320,São Miguel do Guaporé/RO,Médio,0.49,Sumidouros líquidos,Demais
+1100338,Nova Mamoré/RO,Médio,0.51,Emissores líquidos,Demais
+1100346,Alvorada D'Oeste/RO,Médio,0.53,Sumidouros líquidos,Demais
+1100379,Alto Alegre dos Parecis/RO,Médio,0.4,Emissores líquidos,Demais
+1100403,Alto Paraíso/RO,Médio,0.58,Emissores líquidos,Demais
+1100452,Buritis/RO,Alto,0.63,Emissores líquidos,Demais
+1100502,Novo Horizonte do Oeste/RO,Baixo,0.27,Emissores líquidos,Demais
+1100601,Cacaulândia/RO,Médio,0.46,Emissores líquidos,Demais
+1100700,Campo Novo de Rondônia/RO,Médio,0.58,Emissores líquidos,Demais
+1100809,Candeias do Jamari/RO,Médio,0.57,Emissores líquidos,Demais
+1100908,Castanheiras/RO,Baixo,0.28,Emissores líquidos,Demais
+1100924,Chupinguaia/RO,Baixo,0.29,Emissores líquidos,Demais
+1100940,Cujubim/RO,Alto,0.63,Emissores líquidos,Demais
+1101005,Governador Jorge Teixeira/RO,Médio,0.43,Sumidouros líquidos,Demais
+1101104,Itapuã do Oeste/RO,Médio,0.52,Emissores líquidos,Demais
+1101203,Ministro Andreazza/RO,Médio,0.48,Emissores líquidos,Demais
+1101302,Mirante da Serra/RO,Médio,0.52,Emissores líquidos,Demais
+1101401,Monte Negro/RO,Médio,0.56,Emissores líquidos,Demais
+1101435,Nova União/RO,Médio,0.46,Emissores líquidos,Demais
+1101450,Parecis/RO,Médio,0.46,Emissores líquidos,Demais
+1101468,Pimenteiras do Oeste/RO,Médio,0.42,Emissores líquidos,Demais
+1101476,Primavera de Rondônia/RO,Baixo,0.3,Emissores líquidos,Demais
+1101484,São Felipe D'Oeste/RO,Baixo,0.3,Emissores líquidos,Demais
+1101492,São Francisco do Guaporé/RO,Médio,0.49,Sumidouros líquidos,Demais
+1101500,Seringueiras/RO,Médio,0.48,Emissores líquidos,Demais
+1101559,Teixeirópolis/RO,Médio,0.44,Emissores líquidos,Demais
+1101609,Theobroma/RO,Baixo,0.38,Emissores líquidos,Demais
+1101708,Urupá/RO,Médio,0.52,Emissores líquidos,Demais
+1101757,Vale do Anari/RO,Médio,0.49,Emissores líquidos,Demais
+1101807,Vale do Paraíso/RO,Médio,0.45,Emissores líquidos,Demais
+1200013,Acrelândia/AC,Baixo,0.36,Emissores líquidos,Demais
+1200054,Assis Brasil/AC,Médio,0.43,Sumidouros líquidos,Demais
+1200104,Brasiléia/AC,Médio,0.52,Emissores líquidos,Demais
+1200138,Bujari/AC,Médio,0.48,Emissores líquidos,Demais
+1200179,Capixaba/AC,Baixo,0.28,Emissores líquidos,Demais
+1200203,Cruzeiro do Sul/AC,Médio,0.56,Emissores líquidos,Demais
+1200252,Epitaciolândia/AC,Alto,0.69,Emissores líquidos,Demais
+1200302,Feijó/AC,Alto,0.76,Emissores líquidos,Demais
+1200328,Jordão/AC,Médio,0.46,Sumidouros líquidos,Demais
+1200336,Mâncio Lima/AC,Médio,0.45,Sumidouros líquidos,Demais
+1200344,Manoel Urbano/AC,Médio,0.56,Emissores líquidos,Demais
+1200351,Marechal Thaumaturgo/AC,Baixo,0.35,Sumidouros líquidos,Demais
+1200385,Plácido de Castro/AC,Médio,0.56,Emissores líquidos,Demais
+1200393,Porto Walter/AC,Baixo,0.38,Sumidouros líquidos,Demais
+1200401,Rio Branco/AC,Médio,0.52,Emissores líquidos,Demais
+1200427,Rodrigues Alves/AC,Médio,0.42,Emissores líquidos,Demais
+1200435,Santa Rosa do Purus/AC,Baixo,0.24,Sumidouros líquidos,Demais
+1200450,Senador Guiomard/AC,Alto,0.74,Emissores líquidos,Demais
+1200500,Sena Madureira/AC,Alto,0.73,Emissores líquidos,Demais
+1200609,Tarauacá/AC,Muito alto,0.85,Emissores líquidos,Demais
+1200708,Xapuri/AC,Alto,0.74,Emissores líquidos,Demais
+1200807,Porto Acre/AC,Médio,0.41,Emissores líquidos,Demais
+1300029,Alvarães/AM,Alto,0.63,Sumidouros líquidos,Demais
+1300060,Amaturá/AM,Alto,0.65,Sumidouros líquidos,Demais
+1300086,Anamã/AM,Médio,0.45,Emissores líquidos,Demais
+1300102,Anori/AM,Muito alto,0.85,Sumidouros líquidos,Demais
+1300144,Apuí/AM,Médio,0.58,Emissores líquidos,Demais
+1300201,Atalaia do Norte/AM,Médio,0.51,Sumidouros líquidos,Sumidouros recorrentes
+1300300,Autazes/AM,Alto,0.75,Emissores líquidos,Demais
+1300409,Barcelos/AM,Alto,0.69,Sumidouros líquidos,Sumidouros recorrentes
+1300508,Barreirinha/AM,Alto,0.77,Emissores líquidos,Demais
+1300607,Benjamin Constant/AM,Muito alto,0.8,Sumidouros líquidos,Demais
+1300631,Beruri/AM,Alto,0.79,Sumidouros líquidos,Demais
+1300680,Boa Vista do Ramos/AM,Alto,0.76,Emissores líquidos,Demais
+1300706,Boca do Acre/AM,Muito alto,0.87,Emissores líquidos,Demais
+1300805,Borba/AM,Alto,0.79,Sumidouros líquidos,Demais
+1300839,Caapiranga/AM,Alto,0.69,Emissores líquidos,Demais
+1300904,Canutama/AM,Muito alto,0.86,Sumidouros líquidos,Demais
+1301001,Carauari/AM,Muito alto,0.86,Sumidouros líquidos,Demais
+1301100,Careiro/AM,Muito alto,0.81,Emissores líquidos,Demais
+1301159,Careiro da Várzea/AM,Muito alto,0.87,Emissores líquidos,Demais
+1301209,Coari/AM,Muito alto,1.0,Sumidouros líquidos,Demais
+1301308,Codajás/AM,Muito alto,1.0,Emissores líquidos,Demais
+1301407,Eirunepé/AM,Muito alto,0.85,Sumidouros líquidos,Demais
+1301506,Envira/AM,Alto,0.71,Emissores líquidos,Demais
+1301605,Fonte Boa/AM,Muito alto,0.81,Sumidouros líquidos,Demais
+1301654,Guajará/AM,Alto,0.6,Emissores líquidos,Demais
+1301704,Humaitá/AM,Alto,0.65,Sumidouros líquidos,Demais
+1301803,Ipixuna/AM,Alto,0.63,Sumidouros líquidos,Demais
+1301852,Iranduba/AM,Alto,0.71,Emissores líquidos,Demais
+1301902,Itacoatiara/AM,Muito alto,0.86,Emissores líquidos,Demais
+1301951,Itamarati/AM,Alto,0.69,Sumidouros líquidos,Demais
+1302009,Itapiranga/AM,Alto,0.71,Sumidouros líquidos,Demais
+1302108,Japurá/AM,Alto,0.64,Sumidouros líquidos,Demais
+1302207,Juruá/AM,Alto,0.76,Sumidouros líquidos,Demais
+1302306,Jutaí/AM,Alto,0.76,Sumidouros líquidos,Sumidouros recorrentes
+1302405,Lábrea/AM,Muito alto,0.99,Emissores líquidos,Demais
+1302504,Manacapuru/AM,Muito alto,0.93,Emissores líquidos,Demais
+1302553,Manaquiri/AM,Alto,0.73,Emissores líquidos,Demais
+1302603,Manaus/AM,Alto,0.71,Sumidouros líquidos,Demais
+1302702,Manicoré/AM,Alto,0.69,Emissores líquidos,Demais
+1302801,Maraã/AM,Alto,0.76,Sumidouros líquidos,Demais
+1302900,Maués/AM,Alto,0.78,Sumidouros líquidos,Demais
+1303007,Nhamundá/AM,Alto,0.76,Sumidouros líquidos,Demais
+1303106,Nova Olinda do Norte/AM,Muito alto,0.83,Emissores líquidos,Demais
+1303205,Novo Airão/AM,Alto,0.64,Sumidouros líquidos,Sumidouros recorrentes
+1303304,Novo Aripuanã/AM,Muito alto,0.81,Emissores líquidos,Demais
+1303403,Parintins/AM,Muito alto,0.92,Emissores líquidos,Demais
+1303502,Pauini/AM,Alto,0.78,Sumidouros líquidos,Demais
+1303536,Presidente Figueiredo/AM,Médio,0.46,Sumidouros líquidos,Demais
+1303569,Rio Preto da Eva/AM,Alto,0.73,Emissores líquidos,Demais
+1303601,Santa Isabel do Rio Negro/AM,Alto,0.66,Sumidouros líquidos,Sumidouros recorrentes
+1303700,Santo Antônio do Içá/AM,Alto,0.71,Sumidouros líquidos,Demais
+1303809,São Gabriel da Cachoeira/AM,Alto,0.61,Sumidouros líquidos,Sumidouros recorrentes
+1303908,São Paulo de Olivença/AM,Alto,0.75,Sumidouros líquidos,Demais
+1303957,São Sebastião do Uatumã/AM,Alto,0.64,Sumidouros líquidos,Demais
+1304005,Silves/AM,Alto,0.78,Emissores líquidos,Demais
+1304062,Tabatinga/AM,Alto,0.79,Sumidouros líquidos,Demais
+1304104,Tapauá/AM,Muito alto,0.95,Sumidouros líquidos,Sumidouros recorrentes
+1304203,Tefé/AM,Muito alto,0.85,Sumidouros líquidos,Demais
+1304237,Tonantins/AM,Alto,0.65,Sumidouros líquidos,Demais
+1304260,Uarini/AM,Médio,0.54,Sumidouros líquidos,Demais
+1304302,Urucará/AM,Alto,0.73,Sumidouros líquidos,Demais
+1304401,Urucurituba/AM,Muito alto,0.84,Emissores líquidos,Demais
+1400027,Amajari/RR,Muito baixo,0.02,Sumidouros líquidos,Demais
+1400050,Alto Alegre/RR,Baixo,0.3,Sumidouros líquidos,Demais
+1400100,Boa Vista/RR,Baixo,0.33,Emissores líquidos,Demais
+1400159,Bonfim/RR,Muito baixo,0.06,Emissores líquidos,Demais
+1400175,Cantá/RR,Baixo,0.32,Emissores líquidos,Demais
+1400209,Caracaraí/RR,Médio,0.4,Sumidouros líquidos,Demais
+1400233,Caroebe/RR,Baixo,0.33,Emissores líquidos,Demais
+1400282,Iracema/RR,Médio,0.5,Emissores líquidos,Demais
+1400308,Mucajaí/RR,Médio,0.48,Emissores líquidos,Demais
+1400407,Normandia/RR,Muito baixo,0.07,Sumidouros líquidos,Demais
+1400456,Pacaraima/RR,Muito baixo,0.17,Sumidouros líquidos,Demais
+1400472,Rorainópolis/RR,Baixo,0.33,Sumidouros líquidos,Demais
+1400506,São João da Baliza/RR,Médio,0.51,Emissores líquidos,Demais
+1400605,São Luiz/RR,Médio,0.43,Emissores líquidos,Demais
+1400704,Uiramutã/RR,Muito baixo,0.0,Sumidouros líquidos,Demais
+1500107,Abaetetuba/PA,Alto,0.78,Emissores líquidos,Demais
+1500131,Abel Figueiredo/PA,Alto,0.67,Emissores líquidos,Demais
+1500206,Acará/PA,Muito alto,0.91,Emissores líquidos,Demais
+1500305,Afuá/PA,Muito alto,1.0,Sumidouros líquidos,Demais
+1500347,Água Azul do Norte/PA,Alto,0.62,Emissores líquidos,Demais
+1500404,Alenquer/PA,Muito alto,0.87,Sumidouros líquidos,Demais
+1500503,Almeirim/PA,Muito alto,0.84,Sumidouros líquidos,Sumidouros recorrentes
+1500602,Altamira/PA,Muito alto,0.82,Sumidouros líquidos,Demais
+1500701,Anajás/PA,Alto,0.65,Sumidouros líquidos,Demais
+1500800,Ananindeua/PA,Muito alto,1.0,Emissores líquidos,Demais
+1500859,Anapu/PA,Alto,0.65,Emissores líquidos,Demais
+1500909,Augusto Corrêa/PA,Alto,0.66,Emissores líquidos,Demais
+1500958,Aurora do Pará/PA,Alto,0.65,Emissores líquidos,Demais
+1501006,Aveiro/PA,Alto,0.79,Sumidouros líquidos,Demais
+1501105,Bagre/PA,Muito alto,0.97,Emissores líquidos,Demais
+1501204,Baião/PA,Alto,0.67,Emissores líquidos,Demais
+1501253,Bannach/PA,Baixo,0.37,Emissores líquidos,Demais
+1501303,Barcarena/PA,Médio,0.51,Emissores líquidos,Demais
+1501402,Belém/PA,Alto,0.74,Emissores líquidos,Demais
+1501451,Belterra/PA,Muito baixo,0.14,Sumidouros líquidos,Demais
+1501501,Benevides/PA,Alto,0.67,Emissores líquidos,Demais
+1501576,Bom Jesus do Tocantins/PA,Médio,0.56,Emissores líquidos,Demais
+1501600,Bonito/PA,Médio,0.51,Sumidouros líquidos,Demais
+1501709,Bragança/PA,Alto,0.72,Emissores líquidos,Demais
+1501725,Brasil Novo/PA,Médio,0.42,Emissores líquidos,Demais
+1501758,Brejo Grande do Araguaia/PA,Médio,0.51,Emissores líquidos,Demais
+1501782,Breu Branco/PA,Alto,0.78,Emissores líquidos,Demais
+1501808,Breves/PA,Muito alto,1.0,Sumidouros líquidos,Demais
+1501907,Bujaru/PA,Alto,0.74,Emissores líquidos,Demais
+1501956,Cachoeira do Piriá/PA,Médio,0.47,Emissores líquidos,Demais
+1502004,Cachoeira do Arari/PA,Alto,0.6,Sumidouros líquidos,Demais
+1502103,Cametá/PA,Muito alto,0.89,Emissores líquidos,Demais
+1502152,Canaã dos Carajás/PA,Médio,0.48,Emissores líquidos,Demais
+1502202,Capanema/PA,Alto,0.67,Emissores líquidos,Demais
+1502301,Capitão Poço/PA,Alto,0.65,Emissores líquidos,Demais
+1502400,Castanhal/PA,Alto,0.71,Emissores líquidos,Demais
+1502509,Chaves/PA,Muito alto,0.85,Sumidouros líquidos,Demais
+1502608,Colares/PA,Médio,0.43,Emissores líquidos,Demais
+1502707,Conceição do Araguaia/PA,Alto,0.6,Emissores líquidos,Demais
+1502756,Concórdia do Pará/PA,Alto,0.73,Emissores líquidos,Demais
+1502764,Cumaru do Norte/PA,Baixo,0.34,Emissores líquidos,Demais
+1502772,Curionópolis/PA,Médio,0.51,Emissores líquidos,Demais
+1502806,Curralinho/PA,Muito alto,1.0,Sumidouros líquidos,Demais
+1502855,Curuá/PA,Médio,0.55,Emissores líquidos,Demais
+1502905,Curuçá/PA,Médio,0.47,Emissores líquidos,Demais
+1502939,Dom Eliseu/PA,Alto,0.78,Emissores líquidos,Demais
+1502954,Eldorado do Carajás/PA,Alto,0.69,Emissores líquidos,Demais
+1503002,Faro/PA,Muito alto,0.84,Sumidouros líquidos,Demais
+1503044,Floresta do Araguaia/PA,Médio,0.48,Emissores líquidos,Demais
+1503077,Garrafão do Norte/PA,Médio,0.57,Emissores líquidos,Demais
+1503093,Goianésia do Pará/PA,Alto,0.73,Emissores líquidos,Demais
+1503101,Gurupá/PA,Muito alto,0.91,Sumidouros líquidos,Demais
+1503200,Igarapé-Açu/PA,Alto,0.63,Emissores líquidos,Demais
+1503309,Igarapé-Miri/PA,Muito alto,0.83,Emissores líquidos,Demais
+1503408,Inhangapi/PA,Médio,0.48,Emissores líquidos,Demais
+1503457,Ipixuna do Pará/PA,Alto,0.67,Emissores líquidos,Demais
+1503507,Irituia/PA,Alto,0.76,Emissores líquidos,Demais
+1503606,Itaituba/PA,Alto,0.77,Sumidouros líquidos,Demais
+1503705,Itupiranga/PA,Médio,0.59,Emissores líquidos,Demais
+1503754,Jacareacanga/PA,Baixo,0.35,Sumidouros líquidos,Sumidouros recorrentes
+1503804,Jacundá/PA,Alto,0.77,Emissores líquidos,Demais
+1503903,Juruti/PA,Alto,0.76,Emissores líquidos,Demais
+1504000,Limoeiro do Ajuru/PA,Muito alto,0.88,Emissores líquidos,Demais
+1504059,Mãe do Rio/PA,Alto,0.69,Sumidouros líquidos,Demais
+1504109,Magalhães Barata/PA,Médio,0.5,Emissores líquidos,Demais
+1504208,Marabá/PA,Muito alto,0.88,Emissores líquidos,Demais
+1504307,Maracanã/PA,Médio,0.52,Emissores líquidos,Demais
+1504406,Marapanim/PA,Médio,0.47,Emissores líquidos,Demais
+1504422,Marituba/PA,Muito alto,0.87,Sumidouros líquidos,Demais
+1504455,Medicilândia/PA,Médio,0.5,Emissores líquidos,Demais
+1504505,Melgaço/PA,Muito alto,0.93,Sumidouros líquidos,Demais
+1504604,Mocajuba/PA,Muito alto,0.91,Emissores líquidos,Demais
+1504703,Moju/PA,Alto,0.7,Emissores líquidos,Demais
+1504802,Monte Alegre/PA,Muito alto,0.84,Sumidouros líquidos,Demais
+1504901,Muaná/PA,Muito alto,0.92,Sumidouros líquidos,Demais
+1504950,Nova Esperança do Piriá/PA,Alto,0.64,Emissores líquidos,Demais
+1504976,Nova Ipixuna/PA,Muito alto,0.88,Emissores líquidos,Demais
+1505007,Nova Timboteua/PA,Médio,0.51,Emissores líquidos,Demais
+1505031,Novo Progresso/PA,Médio,0.56,Emissores líquidos,Demais
+1505064,Novo Repartimento/PA,Médio,0.57,Emissores líquidos,Demais
+1505106,Óbidos/PA,Alto,0.78,Sumidouros líquidos,Demais
+1505205,Oeiras do Pará/PA,Alto,0.78,Emissores líquidos,Demais
+1505304,Oriximiná/PA,Alto,0.61,Sumidouros líquidos,Sumidouros recorrentes
+1505403,Ourém/PA,Médio,0.56,Emissores líquidos,Demais
+1505437,Ourilândia do Norte/PA,Alto,0.63,Sumidouros líquidos,Demais
+1505486,Pacajá/PA,Alto,0.68,Emissores líquidos,Demais
+1505494,Palestina do Pará/PA,Médio,0.5,Emissores líquidos,Demais
+1505502,Paragominas/PA,Alto,0.62,Emissores líquidos,Demais
+1505536,Parauapebas/PA,Alto,0.69,Emissores líquidos,Demais
+1505551,Pau D'Arco/PA,Médio,0.41,Emissores líquidos,Demais
+1505601,Peixe-Boi/PA,Médio,0.52,Emissores líquidos,Demais
+1505635,Piçarra/PA,Baixo,0.36,Emissores líquidos,Demais
+1505650,Placas/PA,Alto,0.65,Emissores líquidos,Demais
+1505700,Ponta de Pedras/PA,Muito alto,0.91,Sumidouros líquidos,Demais
+1505809,Portel/PA,Muito alto,1.0,Emissores líquidos,Demais
+1505908,Porto de Moz/PA,Muito alto,0.92,Sumidouros líquidos,Demais
+1506005,Prainha/PA,Muito alto,0.84,Emissores líquidos,Demais
+1506104,Primavera/PA,Alto,0.64,Emissores líquidos,Demais
+1506112,Quatipuru/PA,Alto,0.62,Emissores líquidos,Demais
+1506138,Redenção/PA,Médio,0.53,Sumidouros líquidos,Demais
+1506161,Rio Maria/PA,Alto,0.71,Emissores líquidos,Demais
+1506187,Rondon do Pará/PA,Alto,0.7,Emissores líquidos,Demais
+1506195,Rurópolis/PA,Alto,0.77,Emissores líquidos,Demais
+1506203,Salinópolis/PA,Alto,0.6,Emissores líquidos,Demais
+1506302,Salvaterra/PA,Médio,0.46,Sumidouros líquidos,Demais
+1506351,Santa Bárbara do Pará/PA,Médio,0.47,Emissores líquidos,Demais
+1506401,Santa Cruz do Arari/PA,Médio,0.59,Sumidouros líquidos,Demais
+1506500,Santa Izabel do Pará/PA,Alto,0.74,Emissores líquidos,Demais
+1506559,Santa Luzia do Pará/PA,Alto,0.66,Emissores líquidos,Demais
+1506583,Santa Maria das Barreiras/PA,Baixo,0.39,Emissores líquidos,Demais
+1506609,Santa Maria do Pará/PA,Médio,0.53,Emissores líquidos,Demais
+1506708,Santana do Araguaia/PA,Alto,0.69,Emissores líquidos,Demais
+1506807,Santarém/PA,Alto,0.65,Emissores líquidos,Demais
+1506906,Santarém Novo/PA,Muito baixo,0.14,Emissores líquidos,Demais
+1507003,Santo Antônio do Tauá/PA,Médio,0.49,Emissores líquidos,Demais
+1507102,São Caetano de Odivelas/PA,Alto,0.64,Emissores líquidos,Demais
+1507151,São Domingos do Araguaia/PA,Alto,0.67,Emissores líquidos,Demais
+1507201,São Domingos do Capim/PA,Médio,0.57,Emissores líquidos,Demais
+1507300,São Félix do Xingu/PA,Alto,0.73,Emissores líquidos,Demais
+1507409,São Francisco do Pará/PA,Médio,0.41,Emissores líquidos,Demais
+1507458,São Geraldo do Araguaia/PA,Alto,0.62,Emissores líquidos,Demais
+1507466,São João da Ponta/PA,Muito baixo,0.1,Emissores líquidos,Demais
+1507474,São João de Pirabas/PA,Alto,0.62,Emissores líquidos,Demais
+1507508,São João do Araguaia/PA,Médio,0.58,Emissores líquidos,Demais
+1507607,São Miguel do Guamá/PA,Alto,0.79,Emissores líquidos,Demais
+1507706,São Sebastião da Boa Vista/PA,Muito alto,0.97,Sumidouros líquidos,Demais
+1507755,Sapucaia/PA,Médio,0.5,Emissores líquidos,Demais
+1507805,Senador José Porfírio/PA,Alto,0.74,Emissores líquidos,Demais
+1507904,Soure/PA,Alto,0.67,Sumidouros líquidos,Demais
+1507953,Tailândia/PA,Muito alto,0.86,Emissores líquidos,Demais
+1507961,Terra Alta/PA,Baixo,0.39,Emissores líquidos,Demais
+1507979,Terra Santa/PA,Alto,0.65,Emissores líquidos,Demais
+1508001,Tomé-Açu/PA,Alto,0.73,Emissores líquidos,Demais
+1508035,Tracuateua/PA,Alto,0.6,Emissores líquidos,Demais
+1508050,Trairão/PA,Médio,0.59,Emissores líquidos,Demais
+1508084,Tucumã/PA,Médio,0.59,Emissores líquidos,Demais
+1508100,Tucuruí/PA,Muito alto,0.8,Emissores líquidos,Demais
+1508126,Ulianópolis/PA,Alto,0.71,Emissores líquidos,Demais
+1508159,Uruará/PA,Alto,0.73,Emissores líquidos,Demais
+1508209,Vigia/PA,Muito alto,0.84,Emissores líquidos,Demais
+1508308,Viseu/PA,Alto,0.69,Emissores líquidos,Demais
+1508357,Vitória do Xingu/PA,Médio,0.59,Emissores líquidos,Demais
+1508407,Xinguara/PA,Médio,0.56,Emissores líquidos,Demais
+1600055,Serra do Navio/AP,Baixo,0.38,Sumidouros líquidos,Demais
+1600105,Amapá/AP,Alto,0.74,Sumidouros líquidos,Demais
+1600154,Pedra Branca do Amapari/AP,Médio,0.57,Sumidouros líquidos,Demais
+1600204,Calçoene/AP,Alto,0.68,Sumidouros líquidos,Demais
+1600212,Cutias/AP,Médio,0.55,Sumidouros líquidos,Demais
+1600238,Ferreira Gomes/AP,Alto,0.61,Sumidouros líquidos,Demais
+1600253,Itaubal/AP,Médio,0.41,Emissores líquidos,Demais
+1600279,Laranjal do Jari/AP,Muito alto,0.96,Sumidouros líquidos,Sumidouros recorrentes
+1600303,Macapá/AP,Alto,0.75,Emissores líquidos,Demais
+1600402,Mazagão/AP,Muito alto,0.82,Sumidouros líquidos,Demais
+1600501,Oiapoque/AP,Médio,0.59,Sumidouros líquidos,Demais
+1600535,Porto Grande/AP,Alto,0.64,Sumidouros líquidos,Demais
+1600550,Pracuúba/AP,Médio,0.56,Sumidouros líquidos,Demais
+1600600,Santana/AP,Muito alto,0.95,Emissores líquidos,Demais
+1600709,Tartarugalzinho/AP,Médio,0.59,Emissores líquidos,Demais
+1600808,Vitória do Jari/AP,Alto,0.65,Emissores líquidos,Demais
+1700251,Abreulândia/TO,Médio,0.55,Emissores líquidos,Demais
+1700301,Aguiarnópolis/TO,Alto,0.66,Emissores líquidos,Demais
+1700350,Aliança do Tocantins/TO,Médio,0.41,Emissores líquidos,Demais
+1700400,Almas/TO,Médio,0.49,Emissores líquidos,Demais
+1700707,Alvorada/TO,Médio,0.56,Emissores líquidos,Demais
+1701002,Ananás/TO,Alto,0.61,Emissores líquidos,Demais
+1701051,Angico/TO,Baixo,0.33,Emissores líquidos,Demais
+1701101,Aparecida do Rio Negro/TO,Médio,0.41,Emissores líquidos,Demais
+1701309,Aragominas/TO,Médio,0.57,Emissores líquidos,Demais
+1701903,Araguacema/TO,Baixo,0.33,Emissores líquidos,Demais
+1702000,Araguaçu/TO,Médio,0.54,Emissores líquidos,Demais
+1702109,Araguaína/TO,Médio,0.46,Emissores líquidos,Demais
+1702158,Araguanã/TO,Médio,0.4,Sumidouros líquidos,Demais
+1702208,Araguatins/TO,Médio,0.57,Emissores líquidos,Demais
+1702307,Arapoema/TO,Médio,0.58,Emissores líquidos,Demais
+1702406,Arraias/TO,Alto,0.68,Emissores líquidos,Demais
+1702554,Augustinópolis/TO,Alto,0.63,Emissores líquidos,Demais
+1702703,Aurora do Tocantins/TO,Médio,0.49,Emissores líquidos,Demais
+1702901,Axixá do Tocantins/TO,Médio,0.57,Emissores líquidos,Demais
+1703008,Babaçulândia/TO,Médio,0.5,Emissores líquidos,Demais
+1703057,Bandeirantes do Tocantins/TO,Baixo,0.34,Sumidouros líquidos,Demais
+1703073,Barra do Ouro/TO,Baixo,0.31,Emissores líquidos,Demais
+1703107,Barrolândia/TO,Médio,0.49,Emissores líquidos,Demais
+1703206,Bernardo Sayão/TO,Baixo,0.34,Sumidouros líquidos,Demais
+1703305,Bom Jesus do Tocantins/TO,Alto,0.66,Emissores líquidos,Demais
+1703602,Brasilândia do Tocantins/TO,Baixo,0.34,Emissores líquidos,Demais
+1703701,Brejinho de Nazaré/TO,Baixo,0.38,Emissores líquidos,Demais
+1703800,Buriti do Tocantins/TO,Médio,0.58,Emissores líquidos,Demais
+1703826,Cachoeirinha/TO,Médio,0.5,Emissores líquidos,Demais
+1703842,Campos Lindos/TO,Médio,0.49,Emissores líquidos,Demais
+1703867,Cariri do Tocantins/TO,Baixo,0.34,Emissores líquidos,Demais
+1703883,Carmolândia/TO,Baixo,0.33,Sumidouros líquidos,Demais
+1703891,Carrasco Bonito/TO,Baixo,0.28,Emissores líquidos,Demais
+1703909,Caseara/TO,Médio,0.48,Emissores líquidos,Demais
+1704105,Centenário/TO,Médio,0.45,Emissores líquidos,Demais
+1704600,Chapada de Areia/TO,Baixo,0.3,Emissores líquidos,Demais
+1705102,Chapada da Natividade/TO,Médio,0.43,Emissores líquidos,Demais
+1705508,Colinas do Tocantins/TO,Médio,0.46,Emissores líquidos,Demais
+1705557,Combinado/TO,Baixo,0.37,Emissores líquidos,Demais
+1705607,Conceição do Tocantins/TO,Médio,0.46,Emissores líquidos,Demais
+1706001,Couto Magalhães/TO,Baixo,0.38,Emissores líquidos,Demais
+1706100,Cristalândia/TO,Alto,0.61,Emissores líquidos,Demais
+1706258,Crixás do Tocantins/TO,Baixo,0.28,Emissores líquidos,Demais
+1706506,Darcinópolis/TO,Médio,0.45,Emissores líquidos,Demais
+1707009,Dianópolis/TO,Médio,0.53,Emissores líquidos,Demais
+1707108,Divinópolis do Tocantins/TO,Médio,0.44,Emissores líquidos,Demais
+1707207,Dois Irmãos do Tocantins/TO,Médio,0.49,Emissores líquidos,Demais
+1707306,Dueré/TO,Médio,0.52,Emissores líquidos,Demais
+1707405,Esperantina/TO,Médio,0.42,Emissores líquidos,Demais
+1707553,Fátima/TO,Baixo,0.36,Emissores líquidos,Demais
+1707652,Figueirópolis/TO,Médio,0.54,Emissores líquidos,Demais
+1707702,Filadélfia/TO,Médio,0.58,Emissores líquidos,Demais
+1708205,Formoso do Araguaia/TO,Médio,0.51,Sumidouros líquidos,Demais
+1708254,Tabocão/TO,Baixo,0.3,Emissores líquidos,Demais
+1708304,Goianorte/TO,Médio,0.52,Emissores líquidos,Demais
+1709005,Goiatins/TO,Médio,0.5,Emissores líquidos,Demais
+1709302,Guaraí/TO,Médio,0.58,Emissores líquidos,Demais
+1709500,Gurupi/TO,Médio,0.48,Emissores líquidos,Demais
+1709807,Ipueiras/TO,Baixo,0.26,Emissores líquidos,Demais
+1710508,Itacajá/TO,Médio,0.47,Emissores líquidos,Demais
+1710706,Itaguatins/TO,Médio,0.5,Emissores líquidos,Demais
+1710904,Itapiratins/TO,Baixo,0.32,Emissores líquidos,Demais
+1711100,Itaporã do Tocantins/TO,Médio,0.54,Emissores líquidos,Demais
+1711506,Jaú do Tocantins/TO,Baixo,0.35,Emissores líquidos,Demais
+1711803,Juarina/TO,Médio,0.41,Emissores líquidos,Demais
+1711902,Lagoa da Confusão/TO,Baixo,0.34,Sumidouros líquidos,Demais
+1711951,Lagoa do Tocantins/TO,Médio,0.46,Emissores líquidos,Demais
+1712009,Lajeado/TO,Baixo,0.37,Sumidouros líquidos,Demais
+1712157,Lavandeira/TO,Baixo,0.39,Emissores líquidos,Demais
+1712405,Lizarda/TO,Médio,0.44,Emissores líquidos,Demais
+1712454,Luzinópolis/TO,Médio,0.46,Sumidouros líquidos,Demais
+1712504,Marianópolis do Tocantins/TO,Médio,0.45,Emissores líquidos,Demais
+1712702,Mateiros/TO,Baixo,0.38,Sumidouros líquidos,Demais
+1712801,Maurilândia do Tocantins/TO,Médio,0.45,Sumidouros líquidos,Demais
+1713205,Miracema do Tocantins/TO,Médio,0.45,Emissores líquidos,Demais
+1713304,Miranorte/TO,Médio,0.56,Emissores líquidos,Demais
+1713601,Monte do Carmo/TO,Alto,0.61,Emissores líquidos,Demais
+1713700,Monte Santo do Tocantins/TO,Muito baixo,0.1,Emissores líquidos,Demais
+1713809,Palmeiras do Tocantins/TO,Médio,0.49,Emissores líquidos,Demais
+1713957,Muricilândia/TO,Médio,0.55,Emissores líquidos,Demais
+1714203,Natividade/TO,Médio,0.45,Emissores líquidos,Demais
+1714302,Nazaré/TO,Baixo,0.24,Sumidouros líquidos,Demais
+1714880,Nova Olinda/TO,Médio,0.51,Emissores líquidos,Demais
+1715002,Nova Rosalândia/TO,Médio,0.42,Emissores líquidos,Demais
+1715101,Novo Acordo/TO,Baixo,0.38,Sumidouros líquidos,Demais
+1715150,Novo Alegre/TO,Médio,0.45,Emissores líquidos,Demais
+1715259,Novo Jardim/TO,Médio,0.5,Emissores líquidos,Demais
+1715507,Oliveira de Fátima/TO,Baixo,0.31,Emissores líquidos,Demais
+1715705,Palmeirante/TO,Baixo,0.38,Emissores líquidos,Demais
+1715754,Palmeirópolis/TO,Médio,0.52,Emissores líquidos,Demais
+1716109,Paraíso do Tocantins/TO,Médio,0.47,Emissores líquidos,Demais
+1716208,Paranã/TO,Baixo,0.37,Emissores líquidos,Demais
+1716307,Pau D'Arco/TO,Baixo,0.39,Emissores líquidos,Demais
+1716505,Pedro Afonso/TO,Alto,0.6,Emissores líquidos,Demais
+1716604,Peixe/TO,Baixo,0.37,Emissores líquidos,Demais
+1716653,Pequizeiro/TO,Médio,0.51,Emissores líquidos,Demais
+1716703,Colméia/TO,Médio,0.53,Emissores líquidos,Demais
+1717008,Pindorama do Tocantins/TO,Médio,0.44,Emissores líquidos,Demais
+1717206,Piraquê/TO,Médio,0.45,Emissores líquidos,Demais
+1717503,Pium/TO,Alto,0.71,Sumidouros líquidos,Demais
+1717800,Ponte Alta do Bom Jesus/TO,Médio,0.47,Emissores líquidos,Demais
+1717909,Ponte Alta do Tocantins/TO,Médio,0.46,Sumidouros líquidos,Demais
+1718006,Porto Alegre do Tocantins/TO,Médio,0.43,Emissores líquidos,Demais
+1718204,Porto Nacional/TO,Baixo,0.25,Emissores líquidos,Demais
+1718303,Praia Norte/TO,Médio,0.45,Emissores líquidos,Demais
+1718402,Presidente Kennedy/TO,Médio,0.52,Sumidouros líquidos,Demais
+1718451,Pugmil/TO,Médio,0.41,Emissores líquidos,Demais
+1718501,Recursolândia/TO,Alto,0.64,Emissores líquidos,Demais
+1718550,Riachinho/TO,Médio,0.47,Emissores líquidos,Demais
+1718659,Rio da Conceição/TO,Baixo,0.33,Sumidouros líquidos,Demais
+1718709,Rio dos Bois/TO,Baixo,0.33,Emissores líquidos,Demais
+1718758,Rio Sono/TO,Médio,0.45,Emissores líquidos,Demais
+1718808,Sampaio/TO,Médio,0.53,Emissores líquidos,Demais
+1718840,Sandolândia/TO,Baixo,0.36,Emissores líquidos,Demais
+1718865,Santa Fé do Araguaia/TO,Médio,0.55,Sumidouros líquidos,Demais
+1718881,Santa Maria do Tocantins/TO,Médio,0.42,Emissores líquidos,Demais
+1718899,Santa Rita do Tocantins/TO,Baixo,0.36,Emissores líquidos,Demais
+1718907,Santa Rosa do Tocantins/TO,Baixo,0.27,Emissores líquidos,Demais
+1719004,Santa Tereza do Tocantins/TO,Médio,0.4,Emissores líquidos,Demais
+1720002,Santa Terezinha do Tocantins/TO,Baixo,0.34,Emissores líquidos,Demais
+1720101,São Bento do Tocantins/TO,Médio,0.4,Emissores líquidos,Demais
+1720150,São Félix do Tocantins/TO,Baixo,0.29,Sumidouros líquidos,Demais
+1720200,São Miguel do Tocantins/TO,Médio,0.43,Emissores líquidos,Demais
+1720259,São Salvador do Tocantins/TO,Baixo,0.32,Emissores líquidos,Demais
+1720309,São Sebastião do Tocantins/TO,Alto,0.68,Emissores líquidos,Demais
+1720499,São Valério/TO,Baixo,0.39,Emissores líquidos,Demais
+1720655,Silvanópolis/TO,Baixo,0.39,Emissores líquidos,Demais
+1720804,Sítio Novo do Tocantins/TO,Baixo,0.39,Emissores líquidos,Demais
+1720853,Sucupira/TO,Baixo,0.36,Emissores líquidos,Demais
+1720903,Taguatinga/TO,Médio,0.48,Emissores líquidos,Demais
+1720937,Taipas do Tocantins/TO,Médio,0.43,Emissores líquidos,Demais
+1720978,Talismã/TO,Médio,0.46,Emissores líquidos,Demais
+1721000,Palmas/TO,Muito baixo,0.0,Emissores líquidos,Demais
+1721109,Tocantínia/TO,Médio,0.43,Sumidouros líquidos,Demais
+1721208,Tocantinópolis/TO,Médio,0.59,Sumidouros líquidos,Demais
+1721257,Tupirama/TO,Médio,0.56,Emissores líquidos,Demais
+1721307,Tupiratins/TO,Médio,0.41,Emissores líquidos,Demais
+1722081,Wanderlândia/TO,Médio,0.41,Emissores líquidos,Demais
+1722107,Xambioá/TO,Alto,0.7,Emissores líquidos,Demais
+2100055,Açailândia/MA,Alto,0.67,Emissores líquidos,Demais
+2100204,Alcântara/MA,Médio,0.48,Sumidouros líquidos,Demais
+2100402,Altamira do Maranhão/MA,Alto,0.6,Sumidouros líquidos,Demais
+2100436,Alto Alegre do Maranhão/MA,Médio,0.54,Emissores líquidos,Demais
+2100477,Alto Alegre do Pindaré/MA,Alto,0.7,Sumidouros líquidos,Demais
+2100501,Alto Parnaíba/MA,Médio,0.54,Sumidouros líquidos,Demais
+2100550,Amapá do Maranhão/MA,Alto,0.65,Emissores líquidos,Demais
+2100600,Amarante do Maranhão/MA,Médio,0.58,Emissores líquidos,Demais
+2100709,Anajatuba/MA,Médio,0.51,Emissores líquidos,Demais
+2100832,Apicum-Açu/MA,Alto,0.62,Sumidouros líquidos,Demais
+2100873,Araguanã/MA,Médio,0.58,Emissores líquidos,Demais
+2100956,Arame/MA,Médio,0.41,Emissores líquidos,Demais
+2101004,Arari/MA,Muito alto,0.86,Emissores líquidos,Demais
+2101103,Axixá/MA,Médio,0.55,Sumidouros líquidos,Demais
+2101202,Bacabal/MA,Muito alto,0.81,Emissores líquidos,Demais
+2101251,Bacabeira/MA,Baixo,0.22,Emissores líquidos,Demais
+2101301,Bacuri/MA,Alto,0.62,Sumidouros líquidos,Demais
+2101350,Bacurituba/MA,Baixo,0.23,Sumidouros líquidos,Demais
+2101400,Balsas/MA,Médio,0.57,Emissores líquidos,Demais
+2101608,Barra do Corda/MA,Alto,0.6,Emissores líquidos,Demais
+2101772,Bela Vista do Maranhão/MA,Médio,0.49,Emissores líquidos,Demais
+2101806,Benedito Leite/MA,Médio,0.52,Emissores líquidos,Demais
+2101905,Bequimão/MA,Baixo,0.39,Sumidouros líquidos,Demais
+2101939,Bernardo do Mearim/MA,Muito alto,0.83,Emissores líquidos,Demais
+2101970,Boa Vista do Gurupi/MA,Alto,0.67,Emissores líquidos,Demais
+2102002,Bom Jardim/MA,Alto,0.77,Emissores líquidos,Demais
+2102036,Bom Jesus das Selvas/MA,Alto,0.73,Emissores líquidos,Demais
+2102077,Bom Lugar/MA,Médio,0.42,Emissores líquidos,Demais
+2102150,Brejo de Areia/MA,Médio,0.52,Sumidouros líquidos,Demais
+2102325,Buriticupu/MA,Alto,0.75,Emissores líquidos,Demais
+2102358,Buritirana/MA,Baixo,0.31,Emissores líquidos,Demais
+2102408,Cajapió/MA,Alto,0.64,Sumidouros líquidos,Demais
+2102507,Cajari/MA,Alto,0.77,Emissores líquidos,Demais
+2102556,Campestre do Maranhão/MA,Médio,0.5,Emissores líquidos,Demais
+2102606,Cândido Mendes/MA,Alto,0.72,Emissores líquidos,Demais
+2102705,Cantanhede/MA,Alto,0.62,Emissores líquidos,Demais
+2102754,Capinzal do Norte/MA,Baixo,0.33,Emissores líquidos,Demais
+2102804,Carolina/MA,Alto,0.66,Emissores líquidos,Demais
+2102903,Carutapera/MA,Muito alto,0.8,Emissores líquidos,Demais
+2103109,Cedral/MA,Baixo,0.28,Sumidouros líquidos,Demais
+2103125,Central do Maranhão/MA,Baixo,0.39,Sumidouros líquidos,Demais
+2103158,Centro do Guilherme/MA,Alto,0.73,Emissores líquidos,Demais
+2103174,Centro Novo do Maranhão/MA,Médio,0.53,Sumidouros líquidos,Demais
+2103257,Cidelândia/MA,Baixo,0.34,Emissores líquidos,Demais
+2103505,Colinas/MA,Médio,0.55,Emissores líquidos,Demais
+2103554,Conceição do Lago-Açu/MA,Médio,0.52,Emissores líquidos,Demais
+2103604,Coroatá/MA,Muito alto,0.91,Emissores líquidos,Demais
+2103703,Cururupu/MA,Alto,0.79,Sumidouros líquidos,Demais
+2103752,Davinópolis/MA,Alto,0.6,Emissores líquidos,Demais
+2103802,Dom Pedro/MA,Alto,0.74,Emissores líquidos,Demais
+2104008,Esperantinópolis/MA,Médio,0.43,Emissores líquidos,Demais
+2104057,Estreito/MA,Médio,0.59,Emissores líquidos,Demais
+2104073,Feira Nova do Maranhão/MA,Baixo,0.38,Emissores líquidos,Demais
+2104081,Fernando Falcão/MA,Muito baixo,0.1,Sumidouros líquidos,Demais
+2104099,Formosa da Serra Negra/MA,Baixo,0.39,Emissores líquidos,Demais
+2104107,Fortaleza dos Nogueiras/MA,Médio,0.46,Emissores líquidos,Demais
+2104206,Fortuna/MA,Alto,0.68,Emissores líquidos,Demais
+2104305,Godofredo Viana/MA,Alto,0.78,Emissores líquidos,Demais
+2104404,Gonçalves Dias/MA,Alto,0.67,Emissores líquidos,Demais
+2104503,Governador Archer/MA,Muito alto,0.84,Emissores líquidos,Demais
+2104552,Governador Edison Lobão/MA,Baixo,0.32,Emissores líquidos,Demais
+2104602,Governador Eugênio Barros/MA,Baixo,0.33,Emissores líquidos,Demais
+2104628,Governador Luiz Rocha/MA,Médio,0.54,Emissores líquidos,Demais
+2104651,Governador Newton Bello/MA,Médio,0.51,Emissores líquidos,Demais
+2104677,Governador Nunes Freire/MA,Muito alto,0.87,Emissores líquidos,Demais
+2104701,Graça Aranha/MA,Médio,0.53,Emissores líquidos,Demais
+2104800,Grajaú/MA,Médio,0.52,Emissores líquidos,Demais
+2104909,Guimarães/MA,Médio,0.59,Sumidouros líquidos,Demais
+2105153,Igarapé do Meio/MA,Médio,0.57,Sumidouros líquidos,Demais
+2105203,Igarapé Grande/MA,Médio,0.54,Emissores líquidos,Demais
+2105302,Imperatriz/MA,Médio,0.58,Emissores líquidos,Demais
+2105351,Itaipava do Grajaú/MA,Baixo,0.28,Emissores líquidos,Demais
+2105401,Itapecuru Mirim/MA,Alto,0.67,Emissores líquidos,Demais
+2105427,Itinga do Maranhão/MA,Alto,0.77,Emissores líquidos,Demais
+2105450,Jatobá/MA,Baixo,0.35,Emissores líquidos,Demais
+2105476,Jenipapo dos Vieiras/MA,Muito baixo,0.12,Emissores líquidos,Demais
+2105500,João Lisboa/MA,Alto,0.61,Emissores líquidos,Demais
+2105609,Joselândia/MA,Baixo,0.35,Emissores líquidos,Demais
+2105658,Junco do Maranhão/MA,Alto,0.73,Emissores líquidos,Demais
+2105708,Lago da Pedra/MA,Alto,0.71,Emissores líquidos,Demais
+2105807,Lago do Junco/MA,Médio,0.52,Emissores líquidos,Demais
+2105906,Lago Verde/MA,Médio,0.41,Emissores líquidos,Demais
+2105948,Lago dos Rodrigues/MA,Médio,0.52,Emissores líquidos,Demais
+2105963,Lagoa Grande do Maranhão/MA,Médio,0.44,Emissores líquidos,Demais
+2105989,Lajeado Novo/MA,Médio,0.49,Emissores líquidos,Demais
+2106003,Lima Campos/MA,Médio,0.5,Emissores líquidos,Demais
+2106102,Loreto/MA,Médio,0.56,Emissores líquidos,Demais
+2106201,Luís Domingues/MA,Muito alto,0.83,Emissores líquidos,Demais
+2106326,Maracaçumé/MA,Muito alto,0.89,Emissores líquidos,Demais
+2106359,Marajá do Sena/MA,Médio,0.44,Emissores líquidos,Demais
+2106375,Maranhãozinho/MA,Alto,0.78,Sumidouros líquidos,Demais
+2106508,Matinha/MA,Alto,0.73,Emissores líquidos,Demais
+2106631,Matões do Norte/MA,Alto,0.74,Emissores líquidos,Demais
+2106706,Mirador/MA,Médio,0.56,Emissores líquidos,Demais
+2106755,Miranda do Norte/MA,Muito alto,0.81,Emissores líquidos,Demais
+2106805,Mirinzal/MA,Médio,0.55,Sumidouros líquidos,Demais
+2106904,Monção/MA,Alto,0.79,Emissores líquidos,Demais
+2107001,Montes Altos/MA,Médio,0.51,Emissores líquidos,Demais
+2107258,Nova Colinas/MA,Médio,0.52,Emissores líquidos,Demais
+2107308,Nova Iorque/MA,Médio,0.54,Emissores líquidos,Demais
+2107357,Nova Olinda do Maranhão/MA,Muito alto,0.95,Sumidouros líquidos,Demais
+2107407,Olho d'Água das Cunhãs/MA,Alto,0.66,Emissores líquidos,Demais
+2107456,Olinda Nova do Maranhão/MA,Médio,0.5,Emissores líquidos,Demais
+2107506,Paço do Lumiar/MA,Alto,0.69,Emissores líquidos,Demais
+2107605,Palmeirândia/MA,Baixo,0.39,Emissores líquidos,Demais
+2108009,Pastos Bons/MA,Médio,0.59,Emissores líquidos,Demais
+2108108,Paulo Ramos/MA,Alto,0.79,Sumidouros líquidos,Demais
+2108207,Pedreiras/MA,Muito alto,0.88,Emissores líquidos,Demais
+2108256,Pedro do Rosário/MA,Médio,0.53,Emissores líquidos,Demais
+2108306,Penalva/MA,Alto,0.73,Emissores líquidos,Demais
+2108405,Peri Mirim/MA,Médio,0.52,Sumidouros líquidos,Demais
+2108454,Peritoró/MA,Médio,0.45,Emissores líquidos,Demais
+2108504,Pindaré-Mirim/MA,Muito alto,0.9,Sumidouros líquidos,Demais
+2108603,Pinheiro/MA,Alto,0.74,Emissores líquidos,Demais
+2108702,Pio XII/MA,Alto,0.66,Emissores líquidos,Demais
+2108801,Pirapemas/MA,Alto,0.76,Emissores líquidos,Demais
+2108900,Poção de Pedras/MA,Médio,0.43,Emissores líquidos,Demais
+2109007,Porto Franco/MA,Alto,0.64,Emissores líquidos,Demais
+2109056,Porto Rico do Maranhão/MA,Médio,0.42,Sumidouros líquidos,Demais
+2109106,Presidente Dutra/MA,Muito alto,0.83,Emissores líquidos,Demais
+2109205,Presidente Juscelino/MA,Alto,0.62,Emissores líquidos,Demais
+2109239,Presidente Médici/MA,Alto,0.78,Emissores líquidos,Demais
+2109270,Presidente Sarney/MA,Médio,0.49,Emissores líquidos,Demais
+2109452,Raposa/MA,Médio,0.56,Sumidouros líquidos,Demais
+2109502,Riachão/MA,Baixo,0.35,Emissores líquidos,Demais
+2109551,Ribamar Fiquene/MA,Médio,0.4,Emissores líquidos,Demais
+2109601,Rosário/MA,Alto,0.77,Emissores líquidos,Demais
+2109700,Sambaíba/MA,Médio,0.54,Emissores líquidos,Demais
+2109759,Santa Filomena do Maranhão/MA,Médio,0.54,Emissores líquidos,Demais
+2109809,Santa Helena/MA,Muito alto,0.92,Emissores líquidos,Demais
+2109908,Santa Inês/MA,Muito alto,0.86,Sumidouros líquidos,Demais
+2110005,Santa Luzia/MA,Alto,0.65,Emissores líquidos,Demais
+2110039,Santa Luzia do Paruá/MA,Médio,0.56,Sumidouros líquidos,Demais
+2110203,Santa Rita/MA,Médio,0.52,Emissores líquidos,Demais
+2110302,Santo Antônio dos Lopes/MA,Médio,0.42,Emissores líquidos,Demais
+2110500,São Bento/MA,Muito alto,0.82,Emissores líquidos,Demais
+2110658,São Domingos do Azeitão/MA,Médio,0.54,Emissores líquidos,Demais
+2110708,São Domingos do Maranhão/MA,Médio,0.58,Emissores líquidos,Demais
+2110807,São Félix de Balsas/MA,Baixo,0.37,Emissores líquidos,Demais
+2110856,São Francisco do Brejão/MA,Médio,0.42,Sumidouros líquidos,Demais
+2111003,São João Batista/MA,Alto,0.63,Emissores líquidos,Demais
+2111029,São João do Carú/MA,Médio,0.47,Sumidouros líquidos,Demais
+2111052,São João do Paraíso/MA,Médio,0.45,Emissores líquidos,Demais
+2111201,São José de Ribamar/MA,Baixo,0.3,Sumidouros líquidos,Demais
+2111250,São José dos Basílios/MA,Médio,0.49,Emissores líquidos,Demais
+2111300,São Luís/MA,Alto,0.63,Emissores líquidos,Demais
+2111409,São Luís Gonzaga do Maranhão/MA,Médio,0.59,Emissores líquidos,Demais
+2111508,São Mateus do Maranhão/MA,Muito alto,0.89,Emissores líquidos,Demais
+2111532,São Pedro da Água Branca/MA,Alto,0.78,Sumidouros líquidos,Demais
+2111573,São Pedro dos Crentes/MA,Médio,0.45,Emissores líquidos,Demais
+2111607,São Raimundo das Mangabeiras/MA,Médio,0.54,Emissores líquidos,Demais
+2111631,São Raimundo do Doca Bezerra/MA,Baixo,0.3,Emissores líquidos,Demais
+2111672,São Roberto/MA,Baixo,0.39,Emissores líquidos,Demais
+2111706,São Vicente Ferrer/MA,Médio,0.42,Emissores líquidos,Demais
+2111722,Satubinha/MA,Alto,0.73,Emissores líquidos,Demais
+2111763,Senador La Rocque/MA,Médio,0.56,Emissores líquidos,Demais
+2111789,Serrano do Maranhão/MA,Alto,0.67,Sumidouros líquidos,Demais
+2111805,Sítio Novo/MA,Médio,0.4,Emissores líquidos,Demais
+2111904,Sucupira do Norte/MA,Médio,0.47,Emissores líquidos,Demais
+2112001,Tasso Fragoso/MA,Baixo,0.37,Emissores líquidos,Demais
+2112233,Trizidela do Vale/MA,Muito alto,0.89,Emissores líquidos,Demais
+2112274,Tufilândia/MA,Baixo,0.38,Emissores líquidos,Demais
+2112308,Tuntum/MA,Muito alto,0.83,Emissores líquidos,Demais
+2112407,Turiaçu/MA,Médio,0.57,Emissores líquidos,Demais
+2112456,Turilândia/MA,Muito alto,0.89,Emissores líquidos,Demais
+2112803,Viana/MA,Muito alto,0.84,Emissores líquidos,Demais
+2112852,Vila Nova dos Martírios/MA,Médio,0.53,Emissores líquidos,Demais
+2112902,Vitória do Mearim/MA,Alto,0.77,Emissores líquidos,Demais
+2113009,Vitorino Freire/MA,Alto,0.71,Sumidouros líquidos,Demais
+2114007,Zé Doca/MA,Muito alto,0.83,Emissores líquidos,Demais
+5100102,Acorizal/MT,Baixo,0.27,Emissores líquidos,Demais
+5100201,Água Boa/MT,Médio,0.41,Emissores líquidos,Demais
+5100250,Alta Floresta/MT,Baixo,0.33,Emissores líquidos,Demais
+5100300,Alto Araguaia/MT,Médio,0.47,Emissores líquidos,Demais
+5100359,Alto Boa Vista/MT,Baixo,0.3,Emissores líquidos,Demais
+5100409,Alto Garças/MT,Médio,0.48,Emissores líquidos,Demais
+5100508,Alto Paraguai/MT,Alto,0.6,Emissores líquidos,Demais
+5100607,Alto Taquari/MT,Médio,0.41,Emissores líquidos,Demais
+5100805,Apiacás/MT,Médio,0.49,Sumidouros líquidos,Demais
+5101001,Araguaiana/MT,Médio,0.4,Emissores líquidos,Demais
+5101209,Araguainha/MT,Baixo,0.32,Emissores líquidos,Demais
+5101258,Araputanga/MT,Baixo,0.36,Sumidouros líquidos,Demais
+5101308,Arenápolis/MT,Médio,0.52,Emissores líquidos,Demais
+5101407,Aripuanã/MT,Baixo,0.39,Emissores líquidos,Demais
+5101605,Barão de Melgaço/MT,Alto,0.64,Emissores líquidos,Demais
+5101704,Barra do Bugres/MT,Médio,0.59,Emissores líquidos,Demais
+5101803,Barra do Garças/MT,Baixo,0.37,Sumidouros líquidos,Demais
+5101852,Bom Jesus do Araguaia/MT,Muito baixo,0.19,Emissores líquidos,Demais
+5101902,Brasnorte/MT,Baixo,0.38,Emissores líquidos,Demais
+5102504,Cáceres/MT,Médio,0.59,Emissores líquidos,Demais
+5102603,Campinápolis/MT,Médio,0.43,Emissores líquidos,Demais
+5102637,Campo Novo do Parecis/MT,Baixo,0.33,Sumidouros líquidos,Demais
+5102678,Campo Verde/MT,Baixo,0.32,Emissores líquidos,Demais
+5102686,Campos de Júlio/MT,Baixo,0.23,Emissores líquidos,Demais
+5102694,Canabrava do Norte/MT,Baixo,0.28,Emissores líquidos,Demais
+5102702,Canarana/MT,Médio,0.44,Emissores líquidos,Demais
+5102793,Carlinda/MT,Médio,0.46,Emissores líquidos,Demais
+5102850,Castanheira/MT,Baixo,0.39,Emissores líquidos,Demais
+5103007,Chapada dos Guimarães/MT,Médio,0.46,Emissores líquidos,Demais
+5103056,Cláudia/MT,Baixo,0.38,Emissores líquidos,Demais
+5103106,Cocalinho/MT,Baixo,0.37,Emissores líquidos,Demais
+5103205,Colíder/MT,Médio,0.52,Emissores líquidos,Demais
+5103254,Colniza/MT,Médio,0.58,Emissores líquidos,Demais
+5103304,Comodoro/MT,Médio,0.45,Emissores líquidos,Demais
+5103353,Confresa/MT,Baixo,0.26,Emissores líquidos,Demais
+5103361,Conquista D'Oeste/MT,Baixo,0.35,Sumidouros líquidos,Demais
+5103379,Cotriguaçu/MT,Baixo,0.32,Emissores líquidos,Demais
+5103403,Cuiabá/MT,Muito baixo,0.11,Emissores líquidos,Demais
+5103437,Curvelândia/MT,Baixo,0.39,Sumidouros líquidos,Demais
+5103452,Denise/MT,Alto,0.6,Sumidouros líquidos,Demais
+5103502,Diamantino/MT,Baixo,0.39,Emissores líquidos,Demais
+5103601,Dom Aquino/MT,Médio,0.58,Emissores líquidos,Demais
+5103700,Feliz Natal/MT,Médio,0.44,Emissores líquidos,Demais
+5103809,Figueirópolis D'Oeste/MT,Médio,0.42,Sumidouros líquidos,Demais
+5103858,Gaúcha do Norte/MT,Muito baixo,0.16,Emissores líquidos,Demais
+5103908,General Carneiro/MT,Baixo,0.33,Sumidouros líquidos,Demais
+5103957,Glória D'Oeste/MT,Médio,0.44,Emissores líquidos,Demais
+5104104,Guarantã do Norte/MT,Médio,0.43,Emissores líquidos,Demais
+5104203,Guiratinga/MT,Médio,0.52,Emissores líquidos,Demais
+5104500,Indiavaí/MT,Baixo,0.37,Sumidouros líquidos,Demais
+5104526,Ipiranga do Norte/MT,Baixo,0.23,Emissores líquidos,Demais
+5104542,Itanhangá/MT,Muito baixo,0.12,Emissores líquidos,Demais
+5104559,Itaúba/MT,Médio,0.41,Emissores líquidos,Demais
+5104609,Itiquira/MT,Médio,0.44,Emissores líquidos,Demais
+5104807,Jaciara/MT,Médio,0.56,Emissores líquidos,Demais
+5104906,Jangada/MT,Baixo,0.39,Emissores líquidos,Demais
+5105002,Jauru/MT,Baixo,0.36,Sumidouros líquidos,Demais
+5105101,Juara/MT,Baixo,0.35,Emissores líquidos,Demais
+5105150,Juína/MT,Médio,0.4,Sumidouros líquidos,Demais
+5105176,Juruena/MT,Baixo,0.35,Emissores líquidos,Demais
+5105200,Juscimeira/MT,Alto,0.75,Emissores líquidos,Demais
+5105234,Lambari D'Oeste/MT,Médio,0.5,Emissores líquidos,Demais
+5105259,Lucas do Rio Verde/MT,Baixo,0.26,Emissores líquidos,Demais
+5105309,Luciara/MT,Médio,0.53,Sumidouros líquidos,Demais
+5105507,Vila Bela da Santíssima Trindade/MT,Baixo,0.36,Emissores líquidos,Demais
+5105580,Marcelândia/MT,Médio,0.45,Emissores líquidos,Demais
+5105606,Matupá/MT,Baixo,0.37,Emissores líquidos,Demais
+5105622,Mirassol d'Oeste/MT,Médio,0.54,Emissores líquidos,Demais
+5105903,Nobres/MT,Médio,0.49,Emissores líquidos,Demais
+5106000,Nortelândia/MT,Médio,0.51,Sumidouros líquidos,Demais
+5106109,Nossa Senhora do Livramento/MT,Alto,0.75,Emissores líquidos,Demais
+5106158,Nova Bandeirantes/MT,Baixo,0.32,Emissores líquidos,Demais
+5106174,Nova Nazaré/MT,Médio,0.4,Emissores líquidos,Demais
+5106182,Nova Lacerda/MT,Baixo,0.31,Emissores líquidos,Demais
+5106190,Nova Santa Helena/MT,Baixo,0.33,Emissores líquidos,Demais
+5106208,Nova Brasilândia/MT,Médio,0.47,Emissores líquidos,Demais
+5106216,Nova Canaã do Norte/MT,Baixo,0.35,Emissores líquidos,Demais
+5106224,Nova Mutum/MT,Baixo,0.36,Emissores líquidos,Demais
+5106232,Nova Olímpia/MT,Alto,0.6,Emissores líquidos,Demais
+5106240,Nova Ubiratã/MT,Baixo,0.29,Emissores líquidos,Demais
+5106257,Nova Xavantina/MT,Médio,0.57,Emissores líquidos,Demais
+5106265,Novo Mundo/MT,Baixo,0.24,Emissores líquidos,Demais
+5106273,Novo Horizonte do Norte/MT,Médio,0.41,Emissores líquidos,Demais
+5106281,Novo São Joaquim/MT,Baixo,0.38,Emissores líquidos,Demais
+5106299,Paranaíta/MT,Baixo,0.32,Emissores líquidos,Demais
+5106307,Paranatinga/MT,Médio,0.4,Emissores líquidos,Demais
+5106315,Novo Santo Antônio/MT,Baixo,0.33,Sumidouros líquidos,Demais
+5106372,Pedra Preta/MT,Médio,0.55,Emissores líquidos,Demais
+5106422,Peixoto de Azevedo/MT,Médio,0.46,Emissores líquidos,Demais
+5106455,Planalto da Serra/MT,Baixo,0.29,Emissores líquidos,Demais
+5106505,Poconé/MT,Alto,0.68,Emissores líquidos,Demais
+5106653,Pontal do Araguaia/MT,Alto,0.74,Emissores líquidos,Demais
+5106703,Ponte Branca/MT,Baixo,0.35,Emissores líquidos,Demais
+5106752,Pontes e Lacerda/MT,Médio,0.5,Emissores líquidos,Demais
+5106778,Porto Alegre do Norte/MT,Baixo,0.35,Emissores líquidos,Demais
+5106802,Porto dos Gaúchos/MT,Baixo,0.22,Emissores líquidos,Demais
+5106828,Porto Esperidião/MT,Baixo,0.34,Emissores líquidos,Demais
+5106851,Porto Estrela/MT,Médio,0.4,Emissores líquidos,Demais
+5107008,Poxoréu/MT,Baixo,0.33,Emissores líquidos,Demais
+5107040,Primavera do Leste/MT,Muito baixo,0.13,Emissores líquidos,Demais
+5107065,Querência/MT,Baixo,0.29,Emissores líquidos,Demais
+5107107,São José dos Quatro Marcos/MT,Médio,0.49,Emissores líquidos,Demais
+5107156,Reserva do Cabaçal/MT,Baixo,0.36,Emissores líquidos,Demais
+5107180,Ribeirão Cascalheira/MT,Médio,0.48,Emissores líquidos,Demais
+5107198,Ribeirãozinho/MT,Baixo,0.27,Emissores líquidos,Demais
+5107206,Rio Branco/MT,Médio,0.43,Sumidouros líquidos,Demais
+5107248,Santa Carmem/MT,Baixo,0.35,Emissores líquidos,Demais
+5107263,Santo Afonso/MT,Baixo,0.36,Emissores líquidos,Demais
+5107297,São José do Povo/MT,Baixo,0.36,Emissores líquidos,Demais
+5107305,São José do Rio Claro/MT,Médio,0.56,Emissores líquidos,Demais
+5107354,São José do Xingu/MT,Baixo,0.39,Emissores líquidos,Demais
+5107404,São Pedro da Cipa/MT,Médio,0.52,Emissores líquidos,Demais
+5107578,Rondolândia/MT,Baixo,0.28,Sumidouros líquidos,Demais
+5107602,Rondonópolis/MT,Baixo,0.39,Emissores líquidos,Demais
+5107701,Rosário Oeste/MT,Alto,0.63,Emissores líquidos,Demais
+5107743,Santa Cruz do Xingu/MT,Muito baixo,0.13,Emissores líquidos,Demais
+5107750,Salto do Céu/MT,Médio,0.42,Sumidouros líquidos,Demais
+5107768,Santa Rita do Trivelato/MT,Baixo,0.28,Emissores líquidos,Demais
+5107776,Santa Terezinha/MT,Médio,0.5,Emissores líquidos,Demais
+5107792,Santo Antônio do Leste/MT,Médio,0.42,Sumidouros líquidos,Demais
+5107800,Santo Antônio do Leverger/MT,Médio,0.52,Emissores líquidos,Demais
+5107859,São Félix do Araguaia/MT,Baixo,0.31,Emissores líquidos,Demais
+5107875,Sapezal/MT,Médio,0.43,Sumidouros líquidos,Demais
+5107883,Serra Nova Dourada/MT,Baixo,0.25,Emissores líquidos,Demais
+5107909,Sinop/MT,Baixo,0.26,Emissores líquidos,Demais
+5107925,Sorriso/MT,Baixo,0.25,Emissores líquidos,Demais
+5107941,Tabaporã/MT,Baixo,0.2,Emissores líquidos,Demais
+5107958,Tangará da Serra/MT,Muito baixo,0.19,Sumidouros líquidos,Demais
+5108006,Tapurah/MT,Muito baixo,0.15,Emissores líquidos,Demais
+5108055,Terra Nova do Norte/MT,Baixo,0.38,Emissores líquidos,Demais
+5108105,Tesouro/MT,Baixo,0.39,Emissores líquidos,Demais
+5108204,Torixoréu/MT,Médio,0.48,Emissores líquidos,Demais
+5108303,União do Sul/MT,Baixo,0.29,Emissores líquidos,Demais
+5108352,Vale de São Domingos/MT,Baixo,0.21,Emissores líquidos,Demais
+5108402,Várzea Grande/MT,Médio,0.51,Emissores líquidos,Demais
+5108501,Vera/MT,Médio,0.41,Emissores líquidos,Demais
+5108600,Vila Rica/MT,Médio,0.59,Emissores líquidos,Demais
+5108808,Nova Guarita/MT,Baixo,0.26,Emissores líquidos,Demais
+5108857,Nova Marilândia/MT,Baixo,0.35,Emissores líquidos,Demais
+5108907,Nova Maringá/MT,Baixo,0.3,Emissores líquidos,Demais
+5108956,Nova Monte Verde/MT,Baixo,0.29,Emissores líquidos,Demais
