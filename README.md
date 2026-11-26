@@ -44,7 +44,6 @@ python scripts/03_analise_municipal.py
 python scripts/05_icms_verde.py
 python scripts/06_risco_inundacoes.py
 ARTIGO=1 python scripts/02_figuras_ods.py && ARTIGO=1 python scripts/03_analise_municipal.py && ARTIGO=1 python scripts/05_icms_verde.py && ARTIGO=1 python scripts/06_risco_inundacoes.py
-python scripts/06_risco_inundacoes.py
 python scripts/04_base_organizada.py
 ```
 
